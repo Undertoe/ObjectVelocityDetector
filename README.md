@@ -1,5 +1,11 @@
 # ObjectVelocityDetector
 
+Origional Project fork: https://github.com/AustinA/ObjectVelocityDetector
+
+Primary focus from my development: 
+- Lidar Interface using PCL
+- Threading / pipelining 
+
 Performs sensor fusion using a VLP-16 lidar and a BlackFly camera to determine the velocities of detected objects from TensorFlow.
 
 System requirements:
