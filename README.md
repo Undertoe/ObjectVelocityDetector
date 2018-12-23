@@ -1,6 +1,6 @@
 # ObjectVelocityDetector
 
-Origional Project fork: https://github.com/AustinA/ObjectVelocityDetector
+Origional Project fork: https://github.com/AustinA/ObjectVelocityDetector for my MSSE Capstone.
 
 Primary focus from my development: 
 - Lidar Interface using PCL
